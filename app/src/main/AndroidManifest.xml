@@ -1,13 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.gh_yescafe.cayicons.overlay"
-    android:versionName="p221103">
+    package="com.yc.cayicons.overlay">
 
     <overlay
         android:category="com.google.android.apps.nexuslauncher.themed_icons"
         android:isStatic="true"
-        android:priority="0"
+        android:priority="1"
         android:targetPackage="com.google.android.apps.nexuslauncher" />
 
     <application
