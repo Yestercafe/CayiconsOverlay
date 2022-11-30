@@ -3,15 +3,15 @@ plugins {
 }
 
 android {
-    namespace 'com.gh_yescafe.cayicons.overlay'
+    namespace 'com.yc.cayicons.overlay'
     compileSdk 32
 
     defaultConfig {
-        applicationId "com.gh_yescafe.cayicons.overlay"
+        applicationId "com.yc.cayicons.overlay"
         minSdk 31
         targetSdk 32
-        versionCode 1
-        versionName "1.0"
+        versionCode 221103
+        versionName '221103'
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
     }

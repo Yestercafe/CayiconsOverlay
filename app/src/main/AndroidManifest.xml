@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
-    package="com.yc.cayicons.overlay">
+    package="com.yc.cayicons.overlay"
+    android:versionCode="221103"
+    android:versionName="221103">
 
     <overlay
         android:category="com.google.android.apps.nexuslauncher.themed_icons"
